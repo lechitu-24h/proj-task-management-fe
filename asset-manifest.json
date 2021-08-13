@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://lechitu-24h.githup.io/proj-task-management-fe/static/css/main.1b2d26a0.chunk.css",
+    "main.js": "https://lechitu-24h.githup.io/proj-task-management-fe/static/js/main.7394f299.chunk.js",
+    "main.js.map": "https://lechitu-24h.githup.io/proj-task-management-fe/static/js/main.7394f299.chunk.js.map",
+    "runtime~main.js": "https://lechitu-24h.githup.io/proj-task-management-fe/static/js/runtime~main.ce349cb2.js",
+    "runtime~main.js.map": "https://lechitu-24h.githup.io/proj-task-management-fe/static/js/runtime~main.ce349cb2.js.map",
+    "static/js/2.0080eb52.chunk.js": "https://lechitu-24h.githup.io/proj-task-management-fe/static/js/2.0080eb52.chunk.js",
+    "static/js/2.0080eb52.chunk.js.map": "https://lechitu-24h.githup.io/proj-task-management-fe/static/js/2.0080eb52.chunk.js.map",
+    "index.html": "https://lechitu-24h.githup.io/proj-task-management-fe/index.html",
+    "precache-manifest.dfa423b06921fdfd84372992f4d052d9.js": "https://lechitu-24h.githup.io/proj-task-management-fe/precache-manifest.dfa423b06921fdfd84372992f4d052d9.js",
+    "service-worker.js": "https://lechitu-24h.githup.io/proj-task-management-fe/service-worker.js",
+    "static/css/main.1b2d26a0.chunk.css.map": "https://lechitu-24h.githup.io/proj-task-management-fe/static/css/main.1b2d26a0.chunk.css.map"
+  }
+}
